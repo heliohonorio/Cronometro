@@ -1,0 +1,41 @@
+
+.marcador{
+border-radius: 5px;
+text-align: center;
+font-size: 30px;
+
+}
+
+h1{
+    font-size: 80px;
+    display: center;
+    color: #FFF;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+button{
+    height: 50px;
+    border-radius:10px;
+    display: center;
+    font-size: 25px;
+    width: 8.5rem;
+    color:#FFF ;
+    align-items: center;
+    
+}
+
+.start-btn{
+    background-color:green;
+}
+.pause-btn{
+    background-color: grey;
+}
+.stop-btn{
+    background-color:red;
+}
+body{
+    background-color: black;
+}
