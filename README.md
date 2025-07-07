@@ -3,9 +3,9 @@
 Um cronômetro simples e funcional, feito com HTML, CSS e JavaScript. Ideal para projetos que necessitam de controle de tempo.
 
 ## Funcionalidades
-- **⏱️ Iniciar**: Começa a contagem do tempo.
-- **⏸️ Pausar**: Pausa a contagem de tempo.
-- **🔄 Parar**: Reseta o cronômetro para 00:00:00.
+- **⏱️ Start**: Começa a contagem do tempo.
+- **⏸️ Pause**: Pausa a contagem de tempo.
+- **🔄 Stop**: Reseta o cronômetro para 00:00:00.
 
 ## Tecnologias Utilizadas
 - **📄 HTML**: Estrutura da página.
